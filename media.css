@@ -1,0 +1,15 @@
+@media(max-width: 991px){
+
+.header_info h1 {
+	font-size: 70pt;
+}
+.promo {
+		flex-direction: row;
+}
+}
+@media(max-width: 767px){
+
+.justify-content-around {
+	padding-top:0px;
+}
+}
