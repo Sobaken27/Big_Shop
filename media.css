@@ -1,47 +1,6 @@
-@media(max-width: 1600px){
-
-.header_info h1 {
-	font-size: 100pt;
-}
-}
-@media(max-width: 1400px){
-
-.header_info h1 {
-	font-size: 85pt;
-}
-.btn-cart {
-	font-size: 16pt;
-	left:12%;
-}
-}
-@media(max-width: 1250px){
-.header_info h1 {
-	font-size: 70pt;
-}
-.btn-cart {
-	font-size: 14pt;
-}
-}
 @media(max-width: 991px){
-
-.header_info h1 {
-	font-size: 70pt;
-}
-.promo {
-		flex-direction: row;
-}
-
 .form-inline {
 float:right;
 margin-top:-60px;
-}
-}
-@media(max-width: 767px){
-
-.justify-content-around {
-	padding-top:0px;
-}
-.btn-cart {
-	left:39%;
 }
 }
